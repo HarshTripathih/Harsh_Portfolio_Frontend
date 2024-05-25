@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/api/*"
-  to = "http://13.233.50.173/api/api/:splat"
+  to = "https://harsh-portfolio-backend.onrender.com/api/:splat"
   status = 200
 
 [[redirects]]
